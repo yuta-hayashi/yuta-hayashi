@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**yuta-hayashi/yuta-hayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer from front-end to back-end, focusing on Ruby on Rails, React, TypeScript, and GraphQL.
 
-Here are some ideas to get you started:
+I have 3 years of experience working for an enterprise company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am willing to try anything that looks interesting.
+I have experience in a wide range of areas including mobile app development with Flutter, Web AR, image composition processing with Rust, and performance tuning.
+
+### Some OSS activities
+
+- [Support for JS Package Manager updates by yuta-hayashi · Pull Request #107 · sighmon/mjml-rails](https://github.com/sighmon/mjml-rails/pull/107)
+- [Set safe area to Top of exit-webxr-ar-button by yuta-hayashi · Pull Request #3464 · google/model-viewer](https://github.com/google/model-viewer/pull/3464)
+- [USDZExporter: Support opacity materials by yuta-hayashi · Pull Request #23588 · mrdoob/three.js](https://github.com/mrdoob/three.js/pull/23588)
